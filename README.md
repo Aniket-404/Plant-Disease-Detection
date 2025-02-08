@@ -5,7 +5,7 @@
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/Plant-Disease-Detection.git
+git clone https://github.com/Aniket-404/Plant-Disease-Detection.git
 ```
 - Goto the cloned folder.
 ```
